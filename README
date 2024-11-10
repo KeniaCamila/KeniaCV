@@ -1,0 +1,38 @@
+# KeniaCV
+
+PROJECT ANALYSIS
+
+    User Profile
+    ------------
+    
+        User Persona:
+            Name: Kenia Veizaga.
+            Age: 19.
+            Studies: Compulsory Secondary Education, Bachelor (Technological), University Degree (In progress).
+            Languages: Spanish, Catalan and English.
+            Habilities: Fluid interaction with the client; I quickly understand the tastes, needs and concerns of clients          
+                        when starting a conversation in reference to the service we provide. Technological scope: Easy 
+                        management of technological devices; phones, tablets, laptops, computers, etc. And also in the 
+                        creation of advertising spots; such as flyers, advertisements, videos, promotions, etc.
+            Hobbies: Sports, routine, perseverance, reading, listening to music and anything that requires discipline.
+            Interests: Digital field or costumer service. 
+
+
+        Information Architecture:
+            Introduction: Includes a brief personal introduction and a professional photograph to give visual context to 
+                          the visitor. Where the most relevant data such as name, age, date of birth and others will be 
+                          discussed. Without giving much input to what would be the following sections.
+            Work Experience: Where the jobs I have been in to date will be described, each with a brief explanation of 
+                             what said job consisted of, the position I held and achievements acquired; both on a 
+                             professional and personal level. Obviously it is organized in reverse chronological 
+                             order so that the people who are in charge of searching for employees see the last work 
+                             experience first.
+            Education: Shows studies and academic achievements, relevant to your development as a professional. Both 
+                       compulsory and post-compulsory, including extracurricular academic accreditations, as well as 
+                       obtaining a language level, for example a B2 in English.
+            Skills: Includes a list of technical and personal skills; logically useful in carrying out the work to which 
+                    it is applied, such as programming languages, design tools, and interpersonal skills.
+            Portfolio: Presents links and brief descriptions of significant projects or works in which an exhaustive 
+                       intervention has been made.
+            Contact: Provides contact forms (email, LinkedIn, GitHub, etc.) so that employers have easy accessibility when 
+                     contacting if they are interested in the user. 
