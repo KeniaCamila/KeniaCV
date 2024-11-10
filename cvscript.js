@@ -11,6 +11,6 @@ document.addEventListener("DOMContentLoaded", function () {
     if (container) {
         container.appendChild(driveButton);
     } else {
-        console.error("El contenedor #drive-link no fue encontrado.");
+        console.error("#drive-link container was not found.");
     }
 });
