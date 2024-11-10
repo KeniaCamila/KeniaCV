@@ -1,0 +1,58 @@
+# KeniaCV
+
+PROJECT ANALYSIS
+
+    User Profile
+    ------------
+    
+        User Persona:
+            Name: Kenia Veizaga.
+            Age: 19.
+            Studies: Compulsory Secondary Education, Bachelor (Technological), University Degree (In progress).
+            Languages: Spanish, Catalan and English.
+            Habilities: Fluid interaction with the client; I quickly understand the tastes, needs and concerns of clients          
+                        when starting a conversation in reference to the service we provide. Technological scope: Easy 
+                        management of technological devices; phones, tablets, laptops, computers, etc. And also in the 
+                        creation of advertising spots; such as flyers, advertisements, videos, promotions, etc.
+            Hobbies: Sports, routine, perseverance, reading, listening to music and anything that requires discipline.
+            Interests: Digital field or costumer service. 
+
+
+        Information Architecture:
+            Introduction: Includes a brief personal introduction and a professional photograph to give visual context to 
+                          the visitor. Where the most relevant data such as name, age, date of birth and others will be 
+                          discussed. Without giving much input to what would be the following sections.
+            Work Experience: Where the jobs I have been in to date will be described, each with a brief explanation of 
+                             what said job consisted of, the position I held and achievements acquired; both on a 
+                             professional and personal level. Obviously it is organized in reverse chronological 
+                             order so that the people who are in charge of searching for employees see the last work 
+                             experience first.
+            Education: Shows studies and academic achievements, relevant to your development as a professional. Both 
+                       compulsory and post-compulsory, including extracurricular academic accreditations, as well as 
+                       obtaining a language level, for example a B2 in English.
+            Skills: Includes a list of technical and personal skills; logically useful in carrying out the work to which 
+                    it is applied, such as programming languages, design tools, and interpersonal skills.
+            Portfolio: Presents links and brief descriptions of significant projects or works in which an exhaustive 
+                       intervention has been made.
+            Languages: It shows which languages ​​I speak the most, with 2 levels: Advanced and Basic; as well as 
+                               English, Catalan, Spanish, etc.
+            Contact: Provides contact forms (email, LinkedIn, GitHub, etc.) so that employers have easy accessibility when 
+                          contacting if they are interested in the user. 
+Visual Design: 
+            The visual design of this curriculum will be precisely clear; giving it a more modern approach. To achieve this, 
+            I decided on a minimalist design to avoid visual overload; with the intention of streamlining the process of 
+            reading my information, ensuring that all important information could be presented clearly. 
+
+            Main layout: In this one I will use two different sections, one for personal information (the one on the left) 
+                         and another for educational and professional details (the one on the right). This segmentation 
+                        makes it easier for anyone looking for jobs to quickly navigate and find what suits them or 
+                        interests them most.
+            Color palette: Out of my own interest I decided to use a combination of neutral tones, such as soft grays, 
+                            whites, very soft browns and basic black. As I said before, I wanted to make it quite minimalist, 
+                            vso this color combination helps maintain a professional appearance and at the same time adds 
+                            a touch of color to guide the viewer's attention and not stay in the basic black and white, 
+                            but It doesn't look like a rainbow either.
+            Typography: I have mainly used a clean, sans-serif font for the body of the text since in my opinion this speeds 
+                        up readability. I also used iconography to improve visual interest in the contact information, 
+                        languages ​​​​and skills section, making these areas easier to scan, as they are separated from each other, 
+                        simulating a brief summary.
